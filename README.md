@@ -1,4 +1,6 @@
 # hello-world
 
-Hello Github
-NEWBIE for github
+Hello Github.
+
+Beginner for github
+blablalba
