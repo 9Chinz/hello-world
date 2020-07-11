@@ -2,5 +2,5 @@
 
 Hello Github.
 
-PRO for github
+Beginner for github
 blablalba
