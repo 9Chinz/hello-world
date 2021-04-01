@@ -1,8 +1,10 @@
-# 👨‍💻 9Chinz 👨‍💻
+# hello-world
 
-Welcome to my profile
+Hello Github.
 
-# 📑 information 📑
-- Name : 9Chinz 🧑
-- From : Thailand 🙏
-- Current institution : Faculty of Engineering, Computer Engineering, [KMITL](http://kmitl.ac.th/en)
+Beginner for github
+blablalba
+
+Add some new git text
+
+add something news
